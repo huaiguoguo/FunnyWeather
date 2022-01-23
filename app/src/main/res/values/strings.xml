@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FunnyWeather</string>
+    <string name="imageViewContentDescription">内容描述</string>
 </resources>
