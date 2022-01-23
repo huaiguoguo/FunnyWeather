@@ -1,2 +1,2 @@
 # FunnyWeather
-a funny weather
+一个有趣的天气App
